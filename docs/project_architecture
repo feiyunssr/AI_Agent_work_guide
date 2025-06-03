@@ -1,0 +1,6 @@
+// docs/project_architecture
+
+## 新增文件：
+
+*   `agent_designer/prompt_for_agent_designer.md`: AI Agent 设计师的提示词。该提示词指导 LLM 扮演 AI Agent 设计师的角色，负责根据用户需求设计 AI Agent，具备深度需求洞察、Agent 身份构建、提示词工程、风险管理、迭代优化、LLM 专业知识、系统化思维和文档沟通能力，并能在必要时主动询问用户以获取更多需求细节。 
+*   `agent_designer/prompt_for_agent_designer_en.md`: English version of the AI Agent Designer prompt. This prompt guides the LLM to act as an AI Agent Designer, responsible for designing AI Agents based on user requirements. It includes capabilities like insightful requirement analysis, agent identity architecting, prompt engineering, risk management, iterative refinement, LLM expertise, systematic thinking, and documentation/communication skills, with the ability to proactively ask users for more details when needed. 
