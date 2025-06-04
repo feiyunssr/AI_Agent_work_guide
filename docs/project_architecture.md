@@ -14,6 +14,11 @@
 ### 文档目录 (docs/)
 - `project_architecture.md` - 项目架构文档
 
+### AI Agent提示词目录 (agent_prompt/)
+
+#### 代码讲解师 (agent_code_teacher/)
+- `prompt_for_agent_code_teacher.md` - AI代码讲解师 (Godot GDScript & TSCN) 元提示词
+
 ## 文档说明
 
 ### enhanced_game_designer_prompt.md
